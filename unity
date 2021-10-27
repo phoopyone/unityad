@@ -1,12 +1,7 @@
-{"status":true, 
-"one":true, 
-"linkone":"https://phoopyone.github.io/",
-"linktwo":"", 
+{ "version":3,
 "openads":"ca-app-pub-3940256099942544/3419835294", 
-"b":"ca-app-pub-2067851014767801/8415355767", 
-"nativ":"ca-app-pub-3940256099942544/2247696110", 
+"bannerads":"ca-app-pub-3940256099942544/6300978111", 
 "title":"Updated",
 "about":"Updated for new and More Apyar Videos Server Setup",
 "update":"master.apyar.apyarkarr", 
-"version":1, 
-"interstia":"ca-app-pub-2067851014767801/7102274091" }
+"interstialads":"ca-app-pub-3940256099942544/1033173712" }
