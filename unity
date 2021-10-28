@@ -1,7 +1,8 @@
-{ "version":3,
+{ "one":false,
+"version":3,
 "openads":"ca-app-pub-3940256099942544/3419835294", 
 "bannerads":"ca-app-pub-3940256099942544/6300978111", 
 "title":"Updated",
 "about":"Updated for new and More Apyar Videos Server Setup",
-"update":"master.apyar.apyarkarr", 
+"update":"master.apyar.allkar", 
 "interstialads":"ca-app-pub-3940256099942544/1033173712" }
