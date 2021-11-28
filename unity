@@ -1,9 +1,9 @@
-{ 
-"native":"ca-app-pub-3940256099942544/2247696110", 
-"openads":"ca-app-pub-3940256099942544/3419835294", 
+{ "versioncode":2,
+"native":"", 
+"openads":"", 
 "banner":"ca-app-pub-3940256099942544/6300978111", 
 "title":"Updated",
 "about":"Updated for new and More Apyar Videos",
 "update":"", 
 "version":1, 
-"interstial":"ca-app-pub-3940256099942544/1033173712" }
+"interstial":"" }
